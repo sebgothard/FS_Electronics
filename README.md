@@ -1,4 +1,4 @@
-# FS_Electronics
+# Formula Student Electronics
 Hardware projects for Formula Student UK competition 2024-25.
 
 💻Github https://github.com/sebgothard/FS_Electronics
