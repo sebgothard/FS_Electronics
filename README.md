@@ -7,7 +7,7 @@ Hardware projects for Formula Student UK competition 2024-25.
 A device to charge the tractive system such that the battery voltage doesn't damage the internals of the inverter.
 
 <div align="center">
-<img src="" width="600">
+<img src="Precharge/render.png" width="600">
 <p>The precharge module.</p>
 </div>
 
