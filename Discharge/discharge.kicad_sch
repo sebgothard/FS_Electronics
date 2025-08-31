@@ -1695,7 +1695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LVS_Conn_IN"
+		(property "Value" "LV_Conn_IN"
 			(at 107.95 92.7099 0)
 			(effects
 				(font
